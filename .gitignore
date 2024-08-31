@@ -1,0 +1,17 @@
+**/bin
+**/.obj
+**/*.o
+**/*.a
+**/*.d
+**/*.old
+**/tmp
+**/*.log
+**/*.exe
+/dist
+/.vs
+/*.suo
+/*.sdf
+/*.opensdf
+/.vscode/.browse*
+/*.VC.*
+**/*.swp
